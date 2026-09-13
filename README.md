@@ -1,8 +1,8 @@
 # NeuroTendrils — downloads
 
 Builds for every NeuroTendrils application. Each one is published
-automatically from its own repository when a version tag is pushed, so what
-you download here is built from tagged source, not uploaded by hand.
+automatically when a version tag is pushed, so what you download is built from
+tagged source rather than uploaded by hand.
 
 ---
 
@@ -12,7 +12,7 @@ Local-first EEG research environment. Import, inspect, and process recordings
 with a full provenance record of every decision. Your data never leaves the
 machine.
 
-**[Download the latest release →](https://github.com/NeuroTendrils/suite/releases/latest)**
+**[Download →](https://github.com/NeuroTendrils/releases/releases?q=suite)**
 
 | Platform | File |
 |---|---|
@@ -30,7 +30,7 @@ network connection, no cloud service.
 Interactive brain–computer interface literacy. Short lessons with simulations
 you actually operate rather than watch.
 
-**[Download the latest release →](https://github.com/NeuroTendrils/neurolearn/releases/latest)**
+**[Download →](https://github.com/NeuroTendrils/releases/releases?q=neurolearn)**
 
 | Platform | File |
 |---|---|
@@ -62,10 +62,8 @@ either as production software yet.
 
 ## Reporting problems
 
-Open an issue on the repository the build came from:
-
-- Suite → [github.com/NeuroTendrils/suite/issues](https://github.com/NeuroTendrils/suite/issues)
-- NeuroLearn → [github.com/NeuroTendrils/neurolearn/issues](https://github.com/NeuroTendrils/neurolearn/issues)
+[Open an issue here](https://github.com/NeuroTendrils/releases/issues) — this is
+the public tracker for both applications.
 
 Include your operating system, the version you downloaded, and what you were
 doing when it went wrong. If the Suite is involved, the log path is shown in
@@ -75,5 +73,5 @@ Settings → Diagnostics.
 
 ## Licensing
 
-The Suite is proprietary. NeuroLearn and NeuroFlow are AGPL-3.0-or-later. See
-the LICENSE file in each repository.
+The Suite is proprietary; source is not distributed. NeuroLearn is
+AGPL-3.0-or-later — source is available on request, as the licence requires.
